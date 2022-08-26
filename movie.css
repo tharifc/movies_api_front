@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    background-position: 0%;
+}
+
+h1{
+    color: rgb(255, 123, 0);
+    text-align: center;
+    border: 30px;
+}
+.log{
+    padding-left: 100px;
+}

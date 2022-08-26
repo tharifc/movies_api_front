@@ -1,0 +1,51 @@
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;    
+    background-image: url("https://images7.alphacoders.com/653/thumb-1920-653797.jpg");
+  }  
+  button {   
+         background-color: #ebf5f1f7;   
+         width: 100%;  
+          color: orange;   
+          padding: 15px;   
+          margin: 10px 0px;   
+          border: none;   
+          cursor: pointer;  
+          border-color: aqua;
+          border-radius: 20px; 
+           }   
+   form {   
+          border: 3px solid #f1f1f1; 
+            
+      }   
+   input[type=text], input[type=password] {   
+          width: 100%;   
+          margin: 8px 0;  
+          border-radius: 17px;
+          padding: 12px 20px;   
+          display: inline-block;   
+          border: 2px solid rgba(0, 128, 0, 0.274);   
+          box-sizing: border-box; 
+          color: #ebf5f1f7;
+            
+      }  
+   button:hover {   
+          opacity: 0.7;   
+      }   
+    .cancelbtn {   
+          width: auto;   
+          padding: 10px 18px;  
+          margin: 10px 5px;  
+      }   
+          
+       
+   .container {   
+          
+          padding-top:10%;
+            height: 100vh;
+            width: 100%;
+            display: grid;
+            place-items:center;
+            border: 100px;
+        
+
+      }   
